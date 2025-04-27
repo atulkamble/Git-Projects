@@ -1,6 +1,4 @@
-Awesome! Let's do it properly. 🚀  
-Since you want **detailed steps + codes** for these projects,  
-I’ll cover **2 projects completely**, step-by-step, with code, structure, and Git/GitHub flow:
+**2 projects completely**, step-by-step, with code, structure, and Git/GitHub flow:
 
 ✅ **1. Personal Portfolio Website** (GitHub Pages based)  
 ✅ **2. Simple To-Do App** (Node.js based mini project)
